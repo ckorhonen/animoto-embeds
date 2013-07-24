@@ -30,3 +30,6 @@ You should now be able to paste Animoto.com URLs into blog posts and have them r
 
 = 1.1 =
 * Updated to reflect new Animoto oEmbed endpoint
+
+= 1.2 =
+* Switched to custom embed handler in order to support Animoto's mobile-friendly embeds
