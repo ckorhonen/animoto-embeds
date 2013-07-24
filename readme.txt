@@ -3,7 +3,7 @@ Contributors: ckorhonen
 Donate link: http://animoto.com/
 Tags: embed, oembed, video
 Requires at least: 2.9.1
-Tested up to: 2.9.1
+Tested up to: 3.5.1
 Stable tag: trunk
 
 This is a plugin to allow simple embedding of videos created on Animoto.com.
@@ -27,3 +27,6 @@ You should now be able to paste Animoto.com URLs into blog posts and have them r
 
 = 1.0 =
 * Initial Release
+
+= 1.1 =
+* Updated to reflect new Animoto oEmbed endpoint

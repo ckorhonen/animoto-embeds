@@ -1,6 +1,6 @@
 <?php /*
 Plugin Name:  Animoto Embeds
-Version:      1.0.0
+Version:      1.1.0
 Description:  Add support for easily embedding Animoto videos.
 Author:       Chris Korhonen, Animoto Inc
 Author URI:   http://animoto.com
