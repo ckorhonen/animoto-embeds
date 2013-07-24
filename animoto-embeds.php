@@ -6,6 +6,6 @@ Author:       Chris Korhonen, Animoto Inc
 Author URI:   http://animoto.com
 */
 
-wp_oembed_add_provider( 'http://animoto.com/play/*', 'http://animoto.com/services/oembed' );
+wp_oembed_add_provider( 'http://animoto.com/play/*', 'http://animoto.com/oembeds/create.xml' );
 
 ?>
